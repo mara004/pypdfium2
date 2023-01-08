@@ -3,7 +3,5 @@
 
 # Planned Changes
 
-<!-- Currently, no API breaking changes are planned. -->
-
-There will be a lot of API breaking changes with the next major release.
-Please see the updated documentation of the `devel-testsuite` branch for details.
+<!-- The following API breaking changes are in consideration for the next major release: -->
+Currently, no API breaking changes are planned.
