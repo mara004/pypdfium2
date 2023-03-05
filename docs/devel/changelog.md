@@ -7,6 +7,11 @@
 # Changelog
 
 
+## 4.0.1 (2023-03-05)
+
+- No PDFium update (autorelease).
+
+
 ## 4.0.0 (2023-02-28)
 
 - Updated PDFium from `5579` to `5619` (autorelease).

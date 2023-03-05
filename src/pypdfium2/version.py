@@ -5,7 +5,7 @@ __all__ = ["V_PYPDFIUM2", "V_LIBPDFIUM", "V_BUILDNAME", "V_PDFIUM_IS_V8"]
 
 V_MAJOR = 4
 V_MINOR = 0
-V_PATCH = 0
+V_PATCH = 1
 V_BETA = None
 
 #: pypdfium2 version string
